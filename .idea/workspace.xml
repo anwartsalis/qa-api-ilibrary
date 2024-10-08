@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="21f8d8a4-5975-44d8-a87d-e8b942a13a1f" name="Changes" comment="Create README.md&#10;&#10;add readme" />
+    <list default="true" id="21f8d8a4-5975-44d8-a87d-e8b942a13a1f" name="Changes" comment="Create README.md&#10;&#10;add readme">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -77,7 +80,23 @@
       <option name="project" value="LOCAL" />
       <updated>1728428928364</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Create README.md&#10;&#10;add readme">
+      <option name="closed" value="true" />
+      <created>1728429660678</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1728429660678</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Create README.md&#10;&#10;add readme">
+      <option name="closed" value="true" />
+      <created>1728429675382</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1728429675382</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
