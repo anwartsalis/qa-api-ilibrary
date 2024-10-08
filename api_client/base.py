@@ -7,7 +7,6 @@ import requests
 def print_console(first, second):
     print("{:>7} : {}".format(first, second))
 
-
 class APIClient(requests.Session):
     base_url: str = ""
 
