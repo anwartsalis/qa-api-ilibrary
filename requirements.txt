@@ -1,0 +1,7 @@
+jsonpath
+pytest-html
+requests
+pytest
+assertpy
+curlify
+faker
