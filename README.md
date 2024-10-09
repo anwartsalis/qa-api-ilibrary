@@ -16,3 +16,13 @@ agar program dapat di eksekusi, nama file harus ada kata 'test', sebagai contoh,
 Untuk membuat dokumentasi report dengan format html, ketikkan kode di bawah ini :
 >pytest --html=report.html 
 
+
+#### Package tambahan 
+>jsonpath <br>
+> pytest <br>
+> requests <br>
+> pytest-html <br>
+> assertpy <br>
+> curlify <br>
+> faker
+
